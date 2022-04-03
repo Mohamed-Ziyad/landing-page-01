@@ -1,6 +1,6 @@
 # landing-page-01
-This was built using html and css by a youtuber called Mr. Web Designer in 2021 
-and I have converted this to React in 2022, All credits gose to Mr. Web Designer   
+This was built using html and css by a youtuber called SHAIKH ANAS in 2021 
+and I have converted this to React in 2022, All credits gose to SHAIKH ANAS   
 
 Youtube Channel: Mr. Web Designer 
 Link: https://www.youtube.com/channel/UCKwgH3vASrD2brd1l2m6NHw
